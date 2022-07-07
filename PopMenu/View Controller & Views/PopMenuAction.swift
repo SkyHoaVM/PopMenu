@@ -151,7 +151,7 @@ public class PopMenuDefaultAction: NSObject, PopMenuAction {
     
     // MARK: - Constants
     
-    public static let textLeftPadding: CGFloat = 25
+    public static let textLeftPadding: CGFloat = 40
     public static let iconLeftPadding: CGFloat = 18
     
     // MARK: - Initializer
